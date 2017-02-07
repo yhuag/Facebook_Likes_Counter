@@ -1,0 +1,14 @@
+{
+  "name": "facebook-taiwanai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Hu",
+  "license": "ISC",
+  "dependencies": {
+    "fb": "^1.1.1"
+  }
+}
